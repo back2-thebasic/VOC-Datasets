@@ -1,0 +1,27 @@
+path: E:\deeplearning\yolov8_improved\new-yolov8\ultralytics-main\ultralytics\datasets\voc2007  # dataset root dir
+train: train/images  # train images (relative to 'path') 4 images
+val: val/images  # val images (relative to 'path') 4 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: chair
+  1: car
+  2: horse
+  3: person
+  4: bicycle
+  5: cat
+  6: dog
+  7: train
+  8: aeroplane
+  9: diningtable
+  10: tvmonitor
+  11: bird
+  12: bottle
+  13: motorbike
+  14: pottedplant
+  15: boat
+  16: sofa
+  17: sheep
+  18: cow
+  19: bus
